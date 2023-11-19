@@ -1,2 +1,4 @@
-# LETS_GET_EVOLVED
-From this page, from this moment.
+<div align="center">
+<img width="200" src="./logo.png">
+<h1 align="center">TechDice</h1>
+</div>
